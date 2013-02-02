@@ -1,0 +1,1 @@
+bootstrap/src/main/javascript/managers/ExperimentsManager.js

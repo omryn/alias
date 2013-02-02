@@ -1,0 +1,1 @@
+skins/src/main/javascript/experiments/wysiwyg/editor/skins/inputs/button/ButtonInputUpgradeSaleSkin.PublishMarketingBanner.Sale.js

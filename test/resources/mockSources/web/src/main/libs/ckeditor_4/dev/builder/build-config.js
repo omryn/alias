@@ -1,0 +1,1 @@
+web/src/main/libs/ckeditor_4/dev/builder/build-config.js

@@ -1,0 +1,1 @@
+core/src/main/javascript/core/editor/managers/uploadmanager/DragAndDrop.js

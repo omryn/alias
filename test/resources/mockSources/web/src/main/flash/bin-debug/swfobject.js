@@ -1,0 +1,1 @@
+web/src/main/flash/bin-debug/swfobject.js

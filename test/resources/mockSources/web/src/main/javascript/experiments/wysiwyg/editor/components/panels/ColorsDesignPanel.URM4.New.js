@@ -1,0 +1,1 @@
+web/src/main/javascript/experiments/wysiwyg/editor/components/panels/ColorsDesignPanel.URM4.New.js

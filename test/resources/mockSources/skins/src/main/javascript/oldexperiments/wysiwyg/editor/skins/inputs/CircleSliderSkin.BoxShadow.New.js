@@ -1,0 +1,1 @@
+skins/src/main/javascript/oldexperiments/wysiwyg/editor/skins/inputs/CircleSliderSkin.BoxShadow.New.js

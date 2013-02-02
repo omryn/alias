@@ -1,0 +1,1 @@
+skins/src/main/javascript/skins/core/~ContactListSkin.js

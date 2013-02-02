@@ -1,0 +1,1 @@
+core/src/main/javascript/mobile/libs/mootools-core-1.3-full-nocompat.js

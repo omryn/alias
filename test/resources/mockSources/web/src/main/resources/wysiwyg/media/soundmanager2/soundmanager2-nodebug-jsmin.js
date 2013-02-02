@@ -1,0 +1,1 @@
+web/src/main/resources/wysiwyg/media/soundmanager2/soundmanager2-nodebug-jsmin.js

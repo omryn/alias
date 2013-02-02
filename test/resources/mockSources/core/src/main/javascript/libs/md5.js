@@ -1,0 +1,1 @@
+core/src/main/javascript/libs/md5.js

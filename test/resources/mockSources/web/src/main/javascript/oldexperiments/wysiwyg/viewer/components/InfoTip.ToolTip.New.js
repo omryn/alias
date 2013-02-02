@@ -1,0 +1,1 @@
+web/src/main/javascript/oldexperiments/wysiwyg/viewer/components/InfoTip.ToolTip.New.js

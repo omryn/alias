@@ -1,0 +1,1 @@
+web/src/main/javascript/oldexperiments/wysiwyg/editor/managers/TPAEditorManager.TPA.New.js

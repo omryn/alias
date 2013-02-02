@@ -1,0 +1,1 @@
+web/src/main/javascript/experiments/wysiwyg/editor/commandregistrars/ComponentCommandRegistrar.Ecom.New2G.js

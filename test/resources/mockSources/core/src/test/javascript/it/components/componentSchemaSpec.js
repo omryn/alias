@@ -1,0 +1,1 @@
+core/src/test/javascript/it/components/componentSchemaSpec.js

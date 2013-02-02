@@ -1,0 +1,1 @@
+web/src/main/libs/ckeditor/skins/v2/skin.js

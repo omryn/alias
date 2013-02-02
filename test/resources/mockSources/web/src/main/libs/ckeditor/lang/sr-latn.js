@@ -1,0 +1,1 @@
+web/src/main/libs/ckeditor/lang/sr-latn.js

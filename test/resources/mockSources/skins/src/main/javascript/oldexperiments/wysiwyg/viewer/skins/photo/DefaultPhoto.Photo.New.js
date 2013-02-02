@@ -1,0 +1,1 @@
+skins/src/main/javascript/oldexperiments/wysiwyg/viewer/skins/photo/DefaultPhoto.Photo.New.js

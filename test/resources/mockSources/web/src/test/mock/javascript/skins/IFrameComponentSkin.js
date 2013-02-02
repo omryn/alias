@@ -1,0 +1,1 @@
+web/src/test/mock/javascript/skins/IFrameComponentSkin.js

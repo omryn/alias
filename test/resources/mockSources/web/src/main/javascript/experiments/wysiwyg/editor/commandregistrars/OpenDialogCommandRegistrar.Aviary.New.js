@@ -1,0 +1,1 @@
+web/src/main/javascript/experiments/wysiwyg/editor/commandregistrars/OpenDialogCommandRegistrar.Aviary.New.js

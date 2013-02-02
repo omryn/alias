@@ -1,0 +1,1 @@
+web/src/main/libs/ckeditor/plugins/a11yhelp/lang/he.js

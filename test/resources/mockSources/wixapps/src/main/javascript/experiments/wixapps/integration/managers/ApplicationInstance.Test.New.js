@@ -1,0 +1,1 @@
+wixapps/src/main/javascript/experiments/wixapps/integration/managers/ApplicationInstance.Test.New.js

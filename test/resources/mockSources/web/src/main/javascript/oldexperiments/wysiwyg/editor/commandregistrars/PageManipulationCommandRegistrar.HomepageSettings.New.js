@@ -1,0 +1,1 @@
+web/src/main/javascript/oldexperiments/wysiwyg/editor/commandregistrars/PageManipulationCommandRegistrar.HomepageSettings.New.js

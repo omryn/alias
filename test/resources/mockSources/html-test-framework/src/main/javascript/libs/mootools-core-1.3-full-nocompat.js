@@ -1,0 +1,1 @@
+html-test-framework/src/main/javascript/libs/mootools-core-1.3-full-nocompat.js

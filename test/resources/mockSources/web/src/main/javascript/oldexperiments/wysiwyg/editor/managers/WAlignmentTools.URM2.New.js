@@ -1,0 +1,1 @@
+web/src/main/javascript/oldexperiments/wysiwyg/editor/managers/WAlignmentTools.URM2.New.js

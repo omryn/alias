@@ -1,0 +1,1 @@
+web/src/main/javascript/wysiwyg/editor/components/panels/MultiSelectProxyPanel.js

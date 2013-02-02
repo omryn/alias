@@ -1,0 +1,1 @@
+html-test-framework/src/main/javascript/wix/jasmine-extension.js

@@ -1,0 +1,1 @@
+core/src/test/mock/resourceloader/mock_bundle/en-us.js

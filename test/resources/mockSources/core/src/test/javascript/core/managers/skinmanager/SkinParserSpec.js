@@ -1,0 +1,1 @@
+core/src/test/javascript/core/managers/skinmanager/SkinParserSpec.js

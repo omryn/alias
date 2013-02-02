@@ -1,0 +1,1 @@
+skins/src/main/javascript/oldexperiments/wysiwyg/resources/WSkinEditorData.AudioPlayer.New.js

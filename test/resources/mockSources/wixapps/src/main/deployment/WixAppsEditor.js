@@ -1,0 +1,1 @@
+wixapps/src/main/deployment/WixAppsEditor.js

@@ -1,0 +1,1 @@
+skins/src/main/resources/WSkinEditorData.js

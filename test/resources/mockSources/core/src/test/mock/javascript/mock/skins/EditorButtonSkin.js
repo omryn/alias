@@ -1,0 +1,1 @@
+core/src/test/mock/javascript/mock/skins/EditorButtonSkin.js

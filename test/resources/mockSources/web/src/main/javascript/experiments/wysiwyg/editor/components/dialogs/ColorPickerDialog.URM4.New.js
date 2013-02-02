@@ -1,0 +1,1 @@
+web/src/main/javascript/experiments/wysiwyg/editor/components/dialogs/ColorPickerDialog.URM4.New.js

@@ -1,0 +1,1 @@
+web/src/main/libs/ckeditor/skins/office2003/skin.js

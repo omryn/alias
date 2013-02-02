@@ -1,0 +1,1 @@
+web/src/main/javascript/oldexperiments/wysiwyg/editor/components/panels/PageSecurityPanel.PageSecurity.New.js

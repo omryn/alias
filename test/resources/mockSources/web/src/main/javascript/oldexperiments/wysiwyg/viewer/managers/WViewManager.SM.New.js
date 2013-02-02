@@ -1,0 +1,1 @@
+web/src/main/javascript/oldexperiments/wysiwyg/viewer/managers/WViewManager.SM.New.js

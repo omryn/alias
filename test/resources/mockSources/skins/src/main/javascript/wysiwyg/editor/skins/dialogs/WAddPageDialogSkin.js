@@ -1,0 +1,1 @@
+skins/src/main/javascript/wysiwyg/editor/skins/dialogs/WAddPageDialogSkin.js

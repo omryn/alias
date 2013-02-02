@@ -1,0 +1,1 @@
+web/src/main/libs/ckeditor/_source/plugins/image/dialogs/image.js

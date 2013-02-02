@@ -1,0 +1,1 @@
+html-test-framework/src/main/javascript/libs/mootools-more.js

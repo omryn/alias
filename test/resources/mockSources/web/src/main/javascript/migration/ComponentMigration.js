@@ -1,0 +1,1 @@
+web/src/main/javascript/migration/ComponentMigration.js

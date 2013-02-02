@@ -1,0 +1,1 @@
+core/src/main/javascript/core/components/base/ComponentPartTypes.constants.js

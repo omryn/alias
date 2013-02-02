@@ -1,0 +1,1 @@
+web/src/main/libs/ckeditor/plugins/templates/templates/default.js

@@ -1,0 +1,1 @@
+web/src/main/libs/ckeditor/ckeditor_basic_source.js

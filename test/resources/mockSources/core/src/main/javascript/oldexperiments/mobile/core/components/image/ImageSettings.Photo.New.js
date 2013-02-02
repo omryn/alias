@@ -1,0 +1,1 @@
+core/src/main/javascript/oldexperiments/mobile/core/components/image/ImageSettings.Photo.New.js

@@ -1,0 +1,1 @@
+web/src/main/javascript/oldexperiments/wysiwyg/editor/components/panels/FloatingPropertyPanel.WixApps.New.js

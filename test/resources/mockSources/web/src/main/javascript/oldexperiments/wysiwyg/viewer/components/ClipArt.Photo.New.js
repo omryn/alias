@@ -1,0 +1,1 @@
+web/src/main/javascript/oldexperiments/wysiwyg/viewer/components/ClipArt.Photo.New.js

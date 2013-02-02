@@ -1,0 +1,1 @@
+core/src/main/javascript/mobile/etc/relocator.js

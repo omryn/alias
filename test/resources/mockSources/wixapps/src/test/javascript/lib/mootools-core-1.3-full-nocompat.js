@@ -1,0 +1,1 @@
+wixapps/src/test/javascript/lib/mootools-core-1.3-full-nocompat.js

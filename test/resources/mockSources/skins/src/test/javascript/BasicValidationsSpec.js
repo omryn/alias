@@ -1,0 +1,1 @@
+skins/src/test/javascript/BasicValidationsSpec.js

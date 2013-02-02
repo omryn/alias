@@ -1,0 +1,1 @@
+wixapps/src/main/javascript/wixapps/apps/miniposts/descriptor.js

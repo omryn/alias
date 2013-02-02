@@ -1,0 +1,1 @@
+wixapps/src/main/javascript/wixapps/apps/eventlist/descriptor.js

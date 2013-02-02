@@ -1,0 +1,1 @@
+skins/src/main/javascript/skins/editor/EditDesignTemplateGallerySkin.js

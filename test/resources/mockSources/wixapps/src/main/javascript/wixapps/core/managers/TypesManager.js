@@ -1,0 +1,1 @@
+wixapps/src/main/javascript/wixapps/core/managers/TypesManager.js

@@ -1,0 +1,1 @@
+alias/src/tasks/build-test-resources.js

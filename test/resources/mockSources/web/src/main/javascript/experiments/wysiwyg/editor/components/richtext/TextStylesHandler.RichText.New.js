@@ -1,0 +1,1 @@
+web/src/main/javascript/experiments/wysiwyg/editor/components/richtext/TextStylesHandler.RichText.New.js

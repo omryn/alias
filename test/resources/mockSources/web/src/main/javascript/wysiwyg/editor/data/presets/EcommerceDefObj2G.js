@@ -1,0 +1,1 @@
+web/src/main/javascript/wysiwyg/editor/data/presets/EcommerceDefObj2G.js

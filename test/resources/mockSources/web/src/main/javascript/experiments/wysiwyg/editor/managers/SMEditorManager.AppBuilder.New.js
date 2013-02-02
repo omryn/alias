@@ -1,0 +1,1 @@
+web/src/main/javascript/experiments/wysiwyg/editor/managers/SMEditorManager.AppBuilder.New.js

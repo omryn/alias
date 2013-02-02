@@ -1,0 +1,1 @@
+web/src/main/libs/ckeditor/_source/plugins/uicolor/dialogs/uicolor.js

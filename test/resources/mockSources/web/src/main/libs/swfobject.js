@@ -1,0 +1,1 @@
+web/src/main/libs/swfobject.js

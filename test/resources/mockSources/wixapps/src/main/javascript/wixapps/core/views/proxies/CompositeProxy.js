@@ -1,0 +1,1 @@
+wixapps/src/main/javascript/wixapps/core/views/proxies/CompositeProxy.js

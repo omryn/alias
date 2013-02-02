@@ -1,0 +1,1 @@
+wixapps/src/main/javascript/wixapps/integration/gui/EditViewGeneratorIdioms.js

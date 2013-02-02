@@ -1,0 +1,1 @@
+web/src/main/javascript/experiments/wysiwyg/editor/managers/MouseComponentModifier.MCM.New.js

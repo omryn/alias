@@ -1,0 +1,1 @@
+core/src/main/javascript/mobile/libs/swfobject.js

@@ -1,0 +1,1 @@
+core/src/main/javascript/core/editor/managers/uploadmanager/UploadManager.js

@@ -1,0 +1,1 @@
+web/src/main/javascript/oldexperiments/wysiwyg/viewer/propertyTypes/WPhotoProperties.Photo.New.js

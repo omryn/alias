@@ -1,0 +1,1 @@
+web/src/main/resources/wysiwyg/~EditorLanguageLoader.js

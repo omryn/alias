@@ -1,0 +1,1 @@
+skins/src/main/javascript/oldexperiments/wysiwyg/viewer/skins/photo/RoundShadowPhoto.Photo.New.js

@@ -1,0 +1,1 @@
+web/src/main/javascript/experiments/wysiwyg/editor/components/inputs/bg/BgColor.URM4.New.js

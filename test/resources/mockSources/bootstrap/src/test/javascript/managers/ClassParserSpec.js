@@ -1,0 +1,1 @@
+bootstrap/src/test/javascript/managers/ClassParserSpec.js

@@ -1,0 +1,1 @@
+web/src/main/javascript/experiments/wysiwyg/editor/components/panels/base/AutoPanel.ShowOneMnMessage.New.js

@@ -1,0 +1,1 @@
+core/src/main/javascript/oldexperiments/mobile/core/managers/skin/SkinRenderer.Photo.New.js

@@ -1,0 +1,1 @@
+web/src/main/javascript/oldexperiments/wysiwyg/editor/managers/serverfacade/WServerFacade.SM.New.js

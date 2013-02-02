@@ -1,0 +1,1 @@
+core/src/main/resources/mobile/bundles/html_editor_en.js

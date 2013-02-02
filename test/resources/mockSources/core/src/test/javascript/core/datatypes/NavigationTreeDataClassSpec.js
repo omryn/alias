@@ -1,0 +1,1 @@
+core/src/test/javascript/core/datatypes/NavigationTreeDataClassSpec.js

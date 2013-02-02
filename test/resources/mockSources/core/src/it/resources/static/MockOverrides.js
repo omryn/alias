@@ -1,0 +1,1 @@
+core/src/it/resources/static/MockOverrides.js

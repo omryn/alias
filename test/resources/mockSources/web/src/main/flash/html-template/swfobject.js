@@ -1,0 +1,1 @@
+web/src/main/flash/html-template/swfobject.js

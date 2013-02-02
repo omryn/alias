@@ -1,0 +1,1 @@
+bootstrap/src/main/javascript/bootstrap/managers/classmanager/ClassManager.js

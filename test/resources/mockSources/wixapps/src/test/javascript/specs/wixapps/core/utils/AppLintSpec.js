@@ -1,0 +1,1 @@
+wixapps/src/test/javascript/specs/wixapps/core/utils/AppLintSpec.js

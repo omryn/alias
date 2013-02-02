@@ -1,0 +1,1 @@
+skins/src/main/javascript/wysiwyg/viewer/skins/gallerymatrix/MatrixGalleryCircleSkin.js

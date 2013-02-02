@@ -1,0 +1,1 @@
+web/src/main/javascript/oldexperiments/wysiwyg/editor/components/panels/FaviconAndThumbnailPanel.Purple.New.js

@@ -1,0 +1,1 @@
+web/src/db/removeSocialBarSkinAndUndefinedStyles.js

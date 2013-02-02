@@ -1,0 +1,1 @@
+core/src/main/resources/mobile/media/PublicMedia.js

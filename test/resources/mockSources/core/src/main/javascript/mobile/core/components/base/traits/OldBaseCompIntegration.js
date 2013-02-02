@@ -1,0 +1,1 @@
+core/src/main/javascript/mobile/core/components/base/traits/OldBaseCompIntegration.js

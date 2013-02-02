@@ -1,0 +1,1 @@
+web/src/main/javascript/oldexperiments/wysiwyg/viewer/components/PaginatedGridGallery.Zoom.New.js

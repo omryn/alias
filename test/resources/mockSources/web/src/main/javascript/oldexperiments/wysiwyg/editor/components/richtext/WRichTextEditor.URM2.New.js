@@ -1,0 +1,1 @@
+web/src/main/javascript/oldexperiments/wysiwyg/editor/components/richtext/WRichTextEditor.URM2.New.js

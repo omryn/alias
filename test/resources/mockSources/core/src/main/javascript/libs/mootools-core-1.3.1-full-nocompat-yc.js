@@ -1,0 +1,1 @@
+core/src/main/javascript/libs/mootools-core-1.3.1-full-nocompat-yc.js

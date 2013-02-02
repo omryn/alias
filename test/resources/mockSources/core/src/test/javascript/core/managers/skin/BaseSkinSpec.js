@@ -1,0 +1,1 @@
+core/src/test/javascript/core/managers/skin/BaseSkinSpec.js

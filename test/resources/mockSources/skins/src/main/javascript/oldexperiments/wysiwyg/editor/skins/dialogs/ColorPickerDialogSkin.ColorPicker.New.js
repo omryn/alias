@@ -1,0 +1,1 @@
+skins/src/main/javascript/oldexperiments/wysiwyg/editor/skins/dialogs/ColorPickerDialogSkin.ColorPicker.New.js

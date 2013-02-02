@@ -1,0 +1,1 @@
+web/src/main/libs/ckeditor/_source/skins/kama/skin.js

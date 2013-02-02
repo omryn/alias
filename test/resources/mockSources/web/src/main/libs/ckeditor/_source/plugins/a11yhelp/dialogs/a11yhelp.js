@@ -1,0 +1,1 @@
+web/src/main/libs/ckeditor/_source/plugins/a11yhelp/dialogs/a11yhelp.js

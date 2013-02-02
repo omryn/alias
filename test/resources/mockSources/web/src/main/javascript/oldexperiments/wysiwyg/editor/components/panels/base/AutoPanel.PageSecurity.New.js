@@ -1,0 +1,1 @@
+web/src/main/javascript/oldexperiments/wysiwyg/editor/components/panels/base/AutoPanel.PageSecurity.New.js

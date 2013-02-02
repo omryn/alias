@@ -1,0 +1,1 @@
+web/src/main/javascript/oldexperiments/wysiwyg/editor/components/dialogs/BoxShadowDialog.BoxShadow.New.js

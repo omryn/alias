@@ -1,0 +1,1 @@
+web/src/main/libs/ckeditor/plugins/forms/dialogs/select.js

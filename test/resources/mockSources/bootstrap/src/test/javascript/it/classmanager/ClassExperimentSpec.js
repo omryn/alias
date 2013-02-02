@@ -1,0 +1,1 @@
+bootstrap/src/test/javascript/it/classmanager/ClassExperimentSpec.js

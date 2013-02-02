@@ -1,0 +1,1 @@
+gilche/src/plugins/echoQuery.js

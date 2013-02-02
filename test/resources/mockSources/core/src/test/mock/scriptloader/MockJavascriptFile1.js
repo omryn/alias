@@ -1,0 +1,1 @@
+core/src/test/mock/scriptloader/MockJavascriptFile1.js

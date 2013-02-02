@@ -1,0 +1,1 @@
+core/src/main/javascript/core/managers/data/DataItemProxyTrait.js

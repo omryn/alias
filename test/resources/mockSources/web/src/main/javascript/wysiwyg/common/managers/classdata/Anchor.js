@@ -1,0 +1,1 @@
+web/src/main/javascript/wysiwyg/common/managers/classdata/Anchor.js

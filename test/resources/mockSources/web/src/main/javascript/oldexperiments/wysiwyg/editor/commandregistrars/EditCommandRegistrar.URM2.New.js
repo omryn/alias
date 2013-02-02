@@ -1,0 +1,1 @@
+web/src/main/javascript/oldexperiments/wysiwyg/editor/commandregistrars/EditCommandRegistrar.URM2.New.js

@@ -1,0 +1,1 @@
+web/src/main/javascript/experiments/wysiwyg/editor/skins/EditorUISkin.MasterPage.New.js

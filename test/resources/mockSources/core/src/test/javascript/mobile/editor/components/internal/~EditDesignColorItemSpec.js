@@ -1,0 +1,1 @@
+core/src/test/javascript/mobile/editor/components/internal/~EditDesignColorItemSpec.js

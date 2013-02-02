@@ -1,0 +1,1 @@
+web/src/main/libs/ckeditor/plugins/uicolor/yui/yui.js

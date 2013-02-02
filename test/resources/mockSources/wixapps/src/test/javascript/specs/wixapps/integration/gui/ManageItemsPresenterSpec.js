@@ -1,0 +1,1 @@
+wixapps/src/test/javascript/specs/wixapps/integration/gui/ManageItemsPresenterSpec.js

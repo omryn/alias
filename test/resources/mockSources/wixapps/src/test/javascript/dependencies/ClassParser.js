@@ -1,0 +1,1 @@
+wixapps/src/test/javascript/dependencies/ClassParser.js

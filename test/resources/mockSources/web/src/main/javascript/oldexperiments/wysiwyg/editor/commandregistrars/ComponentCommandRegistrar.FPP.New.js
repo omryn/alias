@@ -1,0 +1,1 @@
+web/src/main/javascript/oldexperiments/wysiwyg/editor/commandregistrars/ComponentCommandRegistrar.FPP.New.js

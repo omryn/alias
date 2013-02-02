@@ -1,0 +1,1 @@
+web/src/main/javascript/experiments/wysiwyg/common/propertyTypes/SliderGalleryProperties.SliderAutoPlay.New.js

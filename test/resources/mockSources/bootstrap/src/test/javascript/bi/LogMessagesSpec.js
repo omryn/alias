@@ -1,0 +1,1 @@
+bootstrap/src/test/javascript/bi/LogMessagesSpec.js

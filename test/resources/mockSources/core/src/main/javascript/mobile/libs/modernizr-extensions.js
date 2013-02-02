@@ -1,0 +1,1 @@
+core/src/main/javascript/mobile/libs/modernizr-extensions.js

@@ -1,0 +1,1 @@
+web/src/test/javascript/wysiwyg/viewer/utils/ComponentSequencerSpec.js

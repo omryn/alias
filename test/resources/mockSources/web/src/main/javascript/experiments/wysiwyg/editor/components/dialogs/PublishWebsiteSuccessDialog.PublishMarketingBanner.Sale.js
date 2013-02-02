@@ -1,0 +1,1 @@
+web/src/main/javascript/experiments/wysiwyg/editor/components/dialogs/PublishWebsiteSuccessDialog.PublishMarketingBanner.Sale.js

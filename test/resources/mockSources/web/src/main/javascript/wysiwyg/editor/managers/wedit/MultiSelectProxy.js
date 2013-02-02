@@ -1,0 +1,1 @@
+web/src/main/javascript/wysiwyg/editor/managers/wedit/MultiSelectProxy.js

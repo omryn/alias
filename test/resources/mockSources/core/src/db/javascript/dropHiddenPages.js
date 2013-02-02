@@ -1,0 +1,1 @@
+core/src/db/javascript/dropHiddenPages.js

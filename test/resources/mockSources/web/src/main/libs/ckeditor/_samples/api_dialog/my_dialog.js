@@ -1,0 +1,1 @@
+web/src/main/libs/ckeditor/_samples/api_dialog/my_dialog.js

@@ -1,0 +1,1 @@
+web/src/main/javascript/oldexperiments/wysiwyg/viewer/managers/tpa/TPAComponentRegistrar.TPA.New.js

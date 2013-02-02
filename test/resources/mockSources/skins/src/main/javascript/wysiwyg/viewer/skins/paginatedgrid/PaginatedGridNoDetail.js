@@ -1,0 +1,1 @@
+skins/src/main/javascript/wysiwyg/viewer/skins/paginatedgrid/PaginatedGridNoDetail.js

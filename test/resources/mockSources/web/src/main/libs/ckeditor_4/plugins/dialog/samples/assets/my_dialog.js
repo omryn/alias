@@ -1,0 +1,1 @@
+web/src/main/libs/ckeditor_4/plugins/dialog/samples/assets/my_dialog.js

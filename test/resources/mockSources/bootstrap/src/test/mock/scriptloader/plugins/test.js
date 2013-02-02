@@ -1,0 +1,1 @@
+bootstrap/src/test/mock/scriptloader/plugins/test.js

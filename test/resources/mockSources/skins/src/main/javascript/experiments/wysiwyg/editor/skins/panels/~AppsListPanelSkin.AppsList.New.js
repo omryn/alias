@@ -1,0 +1,1 @@
+skins/src/main/javascript/experiments/wysiwyg/editor/skins/panels/~AppsListPanelSkin.AppsList.New.js

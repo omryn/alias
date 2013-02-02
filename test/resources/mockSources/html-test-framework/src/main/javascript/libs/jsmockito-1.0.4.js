@@ -1,0 +1,1 @@
+html-test-framework/src/main/javascript/libs/jsmockito-1.0.4.js

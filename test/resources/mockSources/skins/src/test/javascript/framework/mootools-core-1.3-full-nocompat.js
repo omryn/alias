@@ -1,0 +1,1 @@
+skins/src/test/javascript/framework/mootools-core-1.3-full-nocompat.js

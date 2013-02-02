@@ -1,0 +1,1 @@
+core/src/main/javascript/experiments/core/components/image/ImageNew.Aviary.New.js
