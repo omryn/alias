@@ -31,7 +31,7 @@ var fnvHash = function (str, reduceToXBits) {
  * @return {Integer} a <i>reduceToXBits</i> reduction of <i>hash</i>
  */
 fnvHash.reduceHash = function (hash, reduceToXBits) {
-    reduceToXBits = reduceToXBits || 25;
+    reduceToXBits = reduceToXBits || 20;
     if (reduceToXBits < 16 || reduceToXBits > 32) {
         throw new Error('Invalid reduceToXBits value: must be in the 16-32 range');
     }

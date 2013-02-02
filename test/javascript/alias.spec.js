@@ -16,26 +16,22 @@ function getIncludedFiles() {
     return includedFiles;
 }
 
+function fileContent(baseDir) {
+    return function (filePath) {
+        return fs.readFileSync(path.join(baseDir, filePath), 'utf8');
+    }
+}
+
 describe('alias grunt task', function () {
     var includedFiles = getIncludedFiles();
     var hashedFilesWithOriginalPathAsContent = expandFiles('target/test/hashed/*');
-
-    function fileContent(baseDir) {
-        return function (filePath) {
-            var value =  fs.readFileSync(path.join(baseDir, filePath), 'utf8');
-            if (typeof value !== 'string') {
-                throw new Error('Wierd');
-            }
-            return value;
-        }
-    }
-
 
     describe('the included files', function () {
         it('there should be over 1000 files to play with', function () {
             expect(includedFiles.length).toBeGreaterThan(100);
         });
-        it('should each contain its path relative to test/resources/mockSources/', function () {
+
+        it('each file\'s content should be its path relative to test/resources/mockSources/', function () {
             var content = includedFiles.map(fileContent('test/resources/mockSources/'));
 
             expect(includedFiles).toEqual(content);
