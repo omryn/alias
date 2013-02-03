@@ -5,7 +5,7 @@
  * FNV is a simple and fast NON-CYPTO hashing algorithms family.
  * @param {String} str a string to digest
  * @param {Integer=20} reduceToXBits a number of bytes the hash will be reduced to. must be between 16 to 32
- * @return {String} a 1-7 characters digest of str in base 36. (the minimax length is max 4 characters for 20 bit reduction)
+ * @return {String} a 1-7 characters digest of str in base 36. (the safety to length minimax is max 4 characters for 20 bit reduction)
  */
 var fnvHash = function (str, reduceToXBits) {
     var FNV_PRIME = 0x01000193,
@@ -48,4 +48,6 @@ fnvHash.reduceHash = function (hash, reduceToXBits) {
     return (rightBits ^ leftBits);
 };
 
-module.exports = fnvHash;
+if (module) {
+    module.exports = fnvHash;
+}

@@ -1,5 +1,5 @@
 var path = require('path');
-var hash = require('../utils/FNV.js');
+var hash = require('../utils/fnvHash.js');
 
 module.exports = function (grunt) {
     'use strict';
