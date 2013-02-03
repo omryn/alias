@@ -1,31 +1,31 @@
 {
-  "name": "alias",
-  "version": "0.0.1",
-  "description": "A grunt path hashing task",
-  "main": "grunt.js",
+    "name": "alias",
+    "version": "0.0.1",
+    "description": "A grunt path hashing task",
+    "main": "grunt.js",
 
-  "scripts": {
-    "test": "jasmine-node test"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/omryn/alias.git"
-  },
-  "keywords": [
-    "grunt",
-    "task",
-    "path",
-    "hash",
-    "file",
-    "FNT",
-    "short"
-  ],
-  "author": "Omry Nachman <omry@wix.com>",
-  "license": "MIT",
-  "gitHead": "caceb8c9b3d64abca97051b9c626988f44e477a8",
-    "dependencies":{
-        "grunt":"0.3.x",
-        "grunt-jasmine-node":">=0.0.4",
-        "grunt-clean":">=0.3.0"
+    "scripts": {
+        "test": "jasmine-node test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/omryn/alias.git"
+    },
+    "keywords": [
+        "grunt",
+        "task",
+        "path",
+        "hash",
+        "file",
+        "FNT",
+        "short"
+    ],
+    "author": "Omry Nachman <omry@wix.com>",
+    "license": "MIT",
+    "gitHead": "caceb8c9b3d64abca97051b9c626988f44e477a8",
+    "dependencies": {
+        "grunt": "0.3.x",
+        "grunt-jasmine-node": ">=0.0.4",
+        "grunt-clean": ">=0.3.0"
     }
 }

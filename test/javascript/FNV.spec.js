@@ -1,5 +1,5 @@
 'use strict';
-var fnvHash = require('utils/fnvHash.js');
+var fnvHash = require('../../src/utils/fnvHash.js');
 var fs = require('fs');
 var _ = require('grunt').utils._;
 
@@ -34,8 +34,8 @@ describe('fnvHash', function () {
             expect(compacted).toEqual(outputs);
         });
 
-        it('should return hash strings of 1-5 characters', function () {
-            expect(outputs).toHaveEntriesWithLengthInRange(1,5);
+        it('should return hash strings of 1-4 characters', function () {
+            expect(outputs).toHaveEntriesWithLengthInRange(1,4);
         });
 
     })

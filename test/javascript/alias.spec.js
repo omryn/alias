@@ -28,7 +28,7 @@ describe('alias grunt task', function () {
 
     describe('the included files', function () {
         it('there should be over 1000 files to play with', function () {
-            expect(includedFiles.length).toBeGreaterThan(100);
+            expect(includedFiles.length).toBeGreaterThan(1000);
         });
 
         it('each file\'s content should be its path relative to test/resources/mockSources/', function () {
@@ -40,9 +40,10 @@ describe('alias grunt task', function () {
 
 
     it('should create a hashed path for each file in resources/mockSources', function () {
-        var originalPaths = hashedFilesWithOriginalPathAsContent.map(fileContent('')).sort();
+        // each hashed file contain its original path, so
+        var hashedFilesContent = hashedFilesWithOriginalPathAsContent.map(fileContent('')).sort();
 
-        expect(originalPaths).toEqual(includedFiles);
+        expect(hashedFilesContent).toEqual(includedFiles);
     });
 
 });
