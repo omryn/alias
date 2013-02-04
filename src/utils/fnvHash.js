@@ -48,6 +48,6 @@ fnvHash.reduceHash = function (hash, reduceToXBits) {
     return (rightBits ^ leftBits);
 };
 
-if (module) {
+if ('module' in this) {
     module.exports = fnvHash;
 }
