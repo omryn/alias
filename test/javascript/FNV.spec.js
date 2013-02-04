@@ -20,7 +20,10 @@ describe('fnvHash', function () {
         rawInput.split("f"),
         rawInput.split("g"),
         rawInput.split("h"),
-        rawInput.split("i")
+        rawInput.split("i"),
+        rawInput.split("k"),
+        rawInput.split("l"),
+        rawInput.split("x")
     )
     var outputs = inputs.map(function (line) {
         return fnvHash(line);

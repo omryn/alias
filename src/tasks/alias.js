@@ -5,11 +5,20 @@ module.exports = function (grunt) {
     'use strict';
     var listFiles = require('../utils/listFiles.js');
 
-    function createAliases(base, sources, target) {
+    function createAliases(base, sources, target, hashBits) {
+        var previouslyHashedPaths = {};
         sources.forEach(function (src) {
+            var hashedPath = hash(src, hashBits || 28);
+            if (hashedPath in previouslyHashedPaths) {
+                throw new Error('Duplicate hashed paths: ' + previouslyHashedPaths[hashedPath] +
+                    ' and ' + src + ' have the same path hash (' + hashedPath + ')');
+            } else {
+                previouslyHashedPaths[hashedPath] = src;
+            }
+
             grunt.file.copy(
                 path.join(base, src),
-                path.join(target, hash(src, 30)));
+                path.join(target, hashedPath));
         });
     }
 
@@ -21,6 +30,6 @@ module.exports = function (grunt) {
             this.data.base
         );
 
-        createAliases(this.data.base, sources, this.data.target);
+        createAliases(this.data.base, sources, this.data.target, this.data.hashBits);
     })
 }
