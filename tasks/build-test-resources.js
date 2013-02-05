@@ -1,7 +1,7 @@
 module.exports = function (grunt) {
     'use strict';
 
-    var listFiles = require('./listFiles.js');
+    var listFiles = require('../utils/listFiles.js');
     var path = require('path');
 
     grunt.registerTask('build_test_resources', function () {
