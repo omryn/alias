@@ -1,5 +1,5 @@
 'use strict';
-var fnvHash = require('../../src/utils/fnvHash.js');
+var fnvHash = require('../../utils/fnvHash.js');
 var fs = require('fs');
 var _ = require('grunt').utils._;
 
