@@ -1,6 +1,6 @@
 {
     "name": "alias",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "description": "A grunt path hashing task",
     "main": "grunt.js",
 
