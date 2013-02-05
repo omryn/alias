@@ -1,8 +1,8 @@
 {
     "name": "alias",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "description": "A grunt path hashing task",
-    "main": "grunt.js",
+    "main": "tasks/alias.js",
 
     "scripts": {
         "test": "jasmine-node test"
